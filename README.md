@@ -41,6 +41,17 @@ Control Panel → Programs and Features
 
 ---
 
+## Configuration
+
+DesktopXR can be configured via a simple settings file.
+
+To change the overlay toggle key and other options,
+see the full documentation:
+
+📖 https://github.com/glenimp617/desktopxr/wiki
+
+---
+
 ## Compatibility
 
 - Windows 10 / Windows 11
