@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" width="1200">
+</p>
+
 # DesktopXR
 
 DesktopXR is an OpenXR API layer that renders a desktop overlay in VR using DirectX 11.  
