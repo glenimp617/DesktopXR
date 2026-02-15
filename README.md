@@ -5,6 +5,7 @@ It is designed to be lightweight, easy to install, and compatible with standard 
 
 Version: 1.0.0
 
+https://www.youtube.com/@SimVRRacing
 ---
 
 ## Features
