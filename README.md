@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" width="1200">
+  <img src="images/desktopxr-banner.jpg" width="1200">
 </p>
 
 # DesktopXR
