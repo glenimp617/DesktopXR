@@ -92,6 +92,4 @@ Use at your own risk.
 
 ## Support
 
-This is an early public release (v1.0.0).
-
 Bug reports and feedback are welcome via GitHub Issues.
