@@ -4,7 +4,7 @@ DesktopXR is an OpenXR desktop overlay API layer for VR.
 
 ## Download
 
-👉 [Download v1.0.0](https://github.com/glenimp617/desktopxr/releases)
+👉 [Download v1.1.0](https://github.com/glenimp617/desktopxr/releases)
 
 ## Installation
 
