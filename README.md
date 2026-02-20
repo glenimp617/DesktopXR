@@ -15,7 +15,7 @@ https://www.youtube.com/@SimVRRacing
 ## Features
 
 - OpenXR API layer desktop overlay
-- DirectX 11 rendering
+- DirectX 11 & 12 rendering
 - Minimal performance overhead
 - Simple MSI installer
 - Clean uninstall support
