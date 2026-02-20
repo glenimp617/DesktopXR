@@ -7,7 +7,7 @@
 DesktopXR is an OpenXR API layer that renders a desktop overlay in VR using DirectX 11 and DirectX 12.  
 It is designed to be lightweight, easy to install, and compatible with standard OpenXR runtimes.
 
-Version: 1.3.0
+Version: 1.3.1
 
 hello@desktopxr.net
 
