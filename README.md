@@ -9,6 +9,7 @@ It is designed to be lightweight, easy to install, and compatible with standard 
 
 Version: 1.3.0
 
+hello@desktopxr.net
 https://www.youtube.com/@SimVRRacing
 ---
 
