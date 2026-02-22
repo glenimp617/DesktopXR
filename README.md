@@ -7,8 +7,9 @@
 DesktopXR is an OpenXR API layer that renders a desktop overlay in VR using DirectX 11 and DirectX 12.  
 It is designed to be lightweight, easy to install, and compatible with standard OpenXR runtimes.
 
-This app is and will always remain free. If you enjoy it, please support the project with a GitHub star 
-and by sharing it with fellow sim racing and flight sim enthusiasts.
+This app will always remain free 🙂.<br>
+If you enjoy using it, all I ask is that you give the project a GitHub star and share it with your<br>
+sim racing and flight sim friends.
 
 Version: 1.3.1
 
