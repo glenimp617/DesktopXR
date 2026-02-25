@@ -9,7 +9,7 @@ It is designed to be lightweight, easy to install, and compatible with standard 
 
 This app will always remain free 🙂
 
-Version: 1.3.1
+Version: 1.4.0
 
 hello@desktopxr.net
 
