@@ -70,7 +70,6 @@ see the full documentation:
 
 ## Known Limitations
 
-- Only DirectX 11 rendering is supported
 - Tested on standard desktop OpenXR runtimes
 - Behavior may vary across headset vendors
 
