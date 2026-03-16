@@ -9,8 +9,6 @@ It is designed to be lightweight, easy to install, and compatible with standard 
 
 This app will always remain free 🙂
 
-Version: 1.4.0
-
 hello@desktopxr.net
 
 https://www.youtube.com/@SimVRRacing
