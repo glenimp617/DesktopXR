@@ -19,6 +19,7 @@ https://www.youtube.com/@SimVRRacing
 
 - OpenXR API layer desktop overlay
 - DirectX 11 & 12 rendering
+- Heads up Display
 - Minimal performance overhead
 - Simple MSI installer
 - Clean uninstall support
