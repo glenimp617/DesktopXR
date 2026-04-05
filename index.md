@@ -1,7 +1,5 @@
 # Blog
 
----
-
 # 4th April 2026 - Version 1.6.0 Launched
 
 after launching v1.6.0 I'll take a few days off before thinking about v1.7.0
