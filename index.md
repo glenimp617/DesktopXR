@@ -2,6 +2,4 @@
 
 
 
-## Download
-
-👉 [Download](https://github.com/glenimp617/desktopxr/releases)
+👉 [Github](https://github.com/glenimp617/desktopxr)
