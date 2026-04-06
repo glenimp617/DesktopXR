@@ -1,6 +1,6 @@
 <p align=center>
 <img width="1200" height="800" alt="glenimp617-office-1200" src="https://github.com/user-attachments/assets/52ac3c6b-434c-4924-ba83-f15ece52036e" />
-</p>p>
+</p>
 
 # Blog
 
