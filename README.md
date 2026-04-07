@@ -9,7 +9,7 @@ It is designed to be lightweight, easy to install, and compatible with standard 
 
 This app will always remain free 🙂
 
-Blog - https://glenimp617.github.io/DesktopXR/
+Blog - https://glenimp617.github.io/DesktopXR
 
 https://www.youtube.com/@SimVRRacing
 
