@@ -6,9 +6,17 @@
 
 ---
 
+# 7th April 2026
+
+FFR for DX11 is almost working, Nvidia cards only
+<br>Redid the entire mouse cursor for DX12, much better in MSFS
+<br>Added a disable switch to the configurator GUI
+
+---
+
 # 6th April 2026
 
-Can't seem to stop!  added DX12 features required for VisionCore.  Tested and working on MSFS2020
+Can't seem to stop!  added DX12 features required for VisionCore.  Tested and working in MSFS2020
 <br>Let's get the framework built, the features in, then we can sort the fit and finish
 <br>Next up......FFR!
 
