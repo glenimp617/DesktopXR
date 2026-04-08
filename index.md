@@ -12,6 +12,7 @@ FFR for DX11 is almost working, Nvidia cards only
 <br>Redid the entire mouse cursor for DX12, much better in MSFS
 <br>Added a disable switch to the configurator GUI
 <br>Need to tone down the GPU/CPU/RAM stats
+<br>Allow setting keybinds to blank/null
 
 ---
 
