@@ -11,8 +11,8 @@ This app will always remain free 🙂
 
 https://www.youtube.com/@SimVRRacing
 
-v1.7.0 with code signing
-<br>COMING SOON
+**v1.7.0 with code signing**
+<br>**COMING SOON**
 
 ---
 
