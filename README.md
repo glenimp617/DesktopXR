@@ -2,8 +2,7 @@
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
-**v1.7.0 with code signing**
-<br>**COMING SOON**
+**COMING SOON: v1.7.0 with code signing**
 
 # DesktopXR
 
