@@ -2,6 +2,9 @@
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
+**v1.7.0 with code signing**
+<br>**COMING SOON**
+
 # DesktopXR
 
 DesktopXR is an OpenXR API layer that renders a desktop overlay in VR using DirectX 11 or DirectX 12.  
@@ -10,9 +13,6 @@ It is designed to be lightweight, easy to install, and compatible with standard 
 This app will always remain free 🙂
 
 https://www.youtube.com/@SimVRRacing
-
-**v1.7.0 with code signing**
-<br>**COMING SOON**
 
 ---
 
