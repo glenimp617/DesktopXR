@@ -19,7 +19,8 @@ It is designed to be lightweight, easy to install, and compatible with standard 
 
 This app will always remain free 🙂
 
-https://www.youtube.com/@SimVRRacing
+Trailer 2 - https://www.youtube.com/watch?v=3naGEVUOVRc
+Trailer 1 - https://www.youtube.com/watch?v=vFJsn9qUZ2g
 
 ---
 
