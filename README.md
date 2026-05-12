@@ -26,7 +26,9 @@ https://www.youtube.com/@SimVRRacing
 - OpenXR API layer desktop overlay
 - DirectX 11 & 12 rendering
 - Heads up Display
+- FOV Cropping
 - VisionCore Image Processing
+- FocusCore Fixed and Eye-tracked foveated rendering
 - Minimal performance overhead
 - Simple MSI installer
 - Clean uninstall support
