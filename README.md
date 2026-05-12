@@ -4,6 +4,8 @@
 
 # Update
 
+https://www.youtube.com/watch?v=NftmFZiuGXg
+
 GitHub Issues are temporarily closed while I focus on finishing v1.7.0.
 This release has taken longer than expected, but it’s shaping up well. I’m currently aiming for a 1 June release, assuming everything goes to plan.
 Issues will remain closed for a couple of weeks afterwards while I take a short break before picking things back up.
