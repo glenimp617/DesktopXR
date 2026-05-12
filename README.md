@@ -27,8 +27,8 @@ https://www.youtube.com/@SimVRRacing
 - DirectX 11 & 12 rendering
 - Heads up Display
 - FOV Cropping
-- VisionCore Image Processing
 - FocusCore Fixed and Eye-tracked foveated rendering
+- VisionCore Image Processing
 - Minimal performance overhead
 - Simple MSI installer
 - Clean uninstall support
