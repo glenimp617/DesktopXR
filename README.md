@@ -4,8 +4,6 @@
 
 # Update 2
 
-https://www.youtube.com/watch?v=NftmFZiuGXg
-
 There will be a 1.7.1 released before I start work on 1.8.0
 
 - Fixed Desktop Overlay crash when toggled repeatedly.
