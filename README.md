@@ -2,6 +2,19 @@
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
+# Update 2
+
+https://www.youtube.com/watch?v=NftmFZiuGXg
+
+There will be a 1.7.1 released before I start work on 1.8.0
+
+- Fixed Desktop Overlay crash when toggled repeatedly.
+- Improved HUD performance and reduced CPU spikes.
+- Added removable and reorderable HUD tiles.
+- Added FocusCore support for Pimax OLED headsets.
+- Fixed `DesktopXR-DataBridge.exe` hang on exit.
+- Reorganised `desktopxr.ini` settings.
+
 # Update
 
 https://www.youtube.com/watch?v=NftmFZiuGXg
