@@ -4,8 +4,10 @@
 
 # Update 2
 
-There will be a 1.7.1 released before I start work on 1.8.0
+Work has started on v1.8.0
 
+- Web Overlays! (Simhub overlays now supported).
+- Improved positioning system (cycle through overlays).
 - Fixed Desktop Overlay crash when toggled repeatedly.
 - Improved HUD performance and reduced CPU spikes.
 - Added removable and reorderable HUD tiles.
