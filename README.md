@@ -7,7 +7,7 @@
 Work has started on v1.8.0
 
 - Web Overlays! (Simhub overlays now supported).
-- DXInput Support! (Map steering wheels, HOTAS and button boxes).
+- DirectInput Support! (Map steering wheels, HOTAS and button boxes).
 - Improved positioning system (cycle through overlays).
 - Fixed Desktop Overlay crash when toggled repeatedly.
 - Improved HUD performance and reduced CPU spikes.
