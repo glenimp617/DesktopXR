@@ -10,7 +10,7 @@ Work has started on v1.8.0
 - DirectInput Support! (Map steering wheels, HOTAS and button boxes).
 - Improved positioning system (cycle through overlays).
 - Fixed Desktop Overlay crash when toggled repeatedly.
-- Improved HUD performance and reduced CPU spikes.
+- Improved HUD performance when active.
 - Added removable and reorderable HUD tiles.
 - Added FocusCore support for Pimax OLED headsets.
 - Fixed `DesktopXR-DataBridge.exe` hang on exit.
