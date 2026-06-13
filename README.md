@@ -16,8 +16,8 @@ Work has started on v1.8.0
 - Prioritizes game performance over overlays.
 - Improved HUD performance when active.
 - Fixed Desktop Overlay crash when toggled repeatedly.
-- Fixed 'DesktopXR-DataBridge.exe' hang on exit.
-- Reorganised 'desktopxr.ini' settings.
+- Fixed `DesktopXR-DataBridge.exe` hang on exit.
+- Reorganised `desktopxr.ini` settings.
 
 # Update
 
