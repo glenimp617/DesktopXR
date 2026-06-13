@@ -4,6 +4,8 @@
 
 # Update 2
 
+https://www.youtube.com/watch?v=X1IDXbnECEI
+
 Work has started on v1.8.0
 
 - Web Overlays! (Simhub overlays now supported).
