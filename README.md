@@ -8,16 +8,16 @@ https://www.youtube.com/watch?v=X1IDXbnECEI
 
 Work has started on v1.8.0
 
-- Web Overlays! (Simhub overlays now supported).
-- DirectInput Support! (Map steering wheels, HOTAS and button boxes).
-- Prioritizes game performance over overlays.
-- Improved positioning system (cycle through overlays).
-- Fixed Desktop Overlay crash when toggled repeatedly.
-- Improved HUD performance when active.
+- Web Overlays — SimHub overlays now supported.
+- DirectInput Support — map steering wheels, HOTAS, and button boxes.
+- FocusCore support for Pimax OLED headsets.
 - Added removable and reorderable HUD tiles.
-- Added FocusCore support for Pimax OLED headsets.
-- Fixed `DesktopXR-DataBridge.exe` hang on exit.
-- Reorganised `desktopxr.ini` settings.
+- Improved positioning system — cycle through overlays more easily.
+- Prioritizes game performance over overlays.
+- Improved HUD performance when active.
+- Fixed Desktop Overlay crash when toggled repeatedly.
+- Fixed 'DesktopXR-DataBridge.exe' hang on exit.
+- Reorganised 'desktopxr.ini' settings.
 
 # Update
 
