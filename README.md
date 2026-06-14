@@ -8,11 +8,11 @@ https://www.youtube.com/watch?v=X1IDXbnECEI
 
 Work has started on v1.8.0
 
-- Web Overlays — SimHub overlays now supported.
-- DirectInput Support — map steering wheels, HOTAS, and button boxes.
+- Web Overlays, SimHub overlays now supported.
+- DirectInput Support, map steering wheels, HOTAS, and button boxes.
 - FocusCore support for Pimax OLED headsets.
 - Added removable and reorderable HUD tiles.
-- Improved positioning system — cycle through overlays more easily.
+- Improved positioning system, cycle through overlays more easily.
 - Prioritizes game performance over overlays.
 - Improved HUD performance when active.
 - Fixed Desktop Overlay crash when toggled repeatedly.
