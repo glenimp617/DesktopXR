@@ -13,7 +13,7 @@ Work has started on v1.8.0
 - FocusCore improvements inc support for Pimax OLED headsets.
 - Added removable and reorderable HUD tiles.
 - Improved positioning system, cycle through overlays more easily.
-- Benchmarking mode, assign a key or button to start capturing frametimes.
+- Benchmarking mode, assign a key or button to start capturing fps & frametimes.
 - Prioritizes game performance over overlays.
 - Improved HUD performance when active.
 - Fixed Desktop Overlay crash when toggled repeatedly.
