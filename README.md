@@ -7,7 +7,6 @@
 Every evening and every weekend spent coding, it's slowly coming together.  Here's a small taster of what's to come
 
 <img width="2247" height="2003" alt="msfs-vc" src="https://github.com/user-attachments/assets/9fb31067-7b4f-4136-b671-8141cd814035" />
-<img width="2238" height="1989" alt="ace-vc" src="https://github.com/user-attachments/assets/13d6493c-f4e5-4f02-9695-8b858404c8ec" />
 
 # Update 2
 
