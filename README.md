@@ -2,6 +2,12 @@
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
+# Update 3
+
+Every evening and every weekend spent coding, it's slowly coming together.  Here's a small taster of what's to come
+
+<img width="2247" height="2003" alt="msfs-vc" src="https://github.com/user-attachments/assets/9fb31067-7b4f-4136-b671-8141cd814035" />
+
 # Update 2
 
 https://www.youtube.com/watch?v=X1IDXbnECEI
