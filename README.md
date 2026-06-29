@@ -2,17 +2,11 @@
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
-# Update 3
+# Update v1.8.0
 
-Every evening and every weekend spent coding, it's slowly coming together.  Here's a small taster of what's to come
+Released 1st August 2026
 
-<img width="2247" height="2003" alt="msfs-vc" src="https://github.com/user-attachments/assets/9fb31067-7b4f-4136-b671-8141cd814035" />
-
-# Update 2
-
-https://www.youtube.com/watch?v=X1IDXbnECEI
-
-Work has started on v1.8.0
+https://www.youtube.com/watch?v=VZTIhLUNZ_A
 
 - Web Overlays, SimHub overlays now supported.
 - DirectInput support, map steering wheels, HOTAS, and button boxes.
@@ -25,14 +19,6 @@ Work has started on v1.8.0
 - Fixed Desktop Overlay crash when toggled repeatedly.
 - Fixed `DesktopXR-DataBridge.exe` hang on exit.
 - Reorganised `desktopxr.ini` settings.
-
-# Update
-
-https://www.youtube.com/watch?v=NftmFZiuGXg
-
-GitHub Issues are temporarily closed while I focus on finishing v1.7.0.
-This release has taken longer than expected, but it’s shaping up well. I’m currently aiming for a 1 June release, assuming everything goes to plan.
-Issues will remain closed for a couple of weeks afterwards while I take a short break before picking things back up.
 
 ---
 
