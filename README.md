@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=VZTIhLUNZ_A
 - Improved HUD performance when active.
 - Fixed Desktop Overlay crash when toggled repeatedly.
 - Fixed `DesktopXR-DataBridge.exe` hang on exit.
-- Reorganised `desktopxr.ini` settings.
+- Reorganised `DesktopXR.ini` settings.
 
 ---
 
