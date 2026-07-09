@@ -99,12 +99,11 @@ see the full documentation:
 
 ## License
 
-DesktopXR is distributed as a binary under a proprietary license.
-See LICENSE.txt for details.
+DesktopXR is distributed as a binary under a proprietary license. See `LICENSE.txt` for details.
 
-This product includes components from the Khronos OpenXR SDK
-licensed under Apache License 2.0.
-See THIRD_PARTY_NOTICES.txt for details.
+This repository and its contents are not licensed for reuse, modification, redistribution, or commercial use unless permission is granted in `LICENSE.txt` or by written agreement.
+
+DesktopXR includes or uses third-party components, including the Khronos OpenXR SDK, NVIDIA NVAPI SDK, and Chromium Embedded Framework. These components remain under their respective licenses. See `THIRD_PARTY_NOTICES.txt` for details.
 
 ---
 
