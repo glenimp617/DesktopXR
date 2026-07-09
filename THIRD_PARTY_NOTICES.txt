@@ -1,7 +1,94 @@
-This product includes software from the Khronos Group:
+DesktopXR Third-Party Notices
+=============================
+
+DesktopXR includes or uses third-party software components.
+
+DesktopXR itself is proprietary software unless otherwise stated in a separate
+DesktopXR licence agreement. The notices below apply only to the third-party
+components listed.
+
+
+1. Khronos OpenXR SDK
+---------------------
+
+This product includes or uses software from the Khronos Group:
 
 OpenXR SDK
 Copyright (c) The Khronos Group Inc.
-Licensed under the Apache License, Version 2.0
+
+Licensed under the Apache License, Version 2.0.
+
+The Apache License, Version 2.0 is available at:
 
 https://www.apache.org/licenses/LICENSE-2.0
+
+
+2. NVIDIA NVAPI SDK
+-------------------
+
+This product uses the NVIDIA NVAPI SDK.
+
+NVAPI SDK
+Copyright (c) NVIDIA Corporation.
+
+Licensed under the MIT License.
+
+The public NVAPI SDK components include headers, interface definitions, and
+import libraries used to build applications that call NVAPI. The NVAPI runtime
+implementation is provided by the NVIDIA graphics driver installed on the
+user's system.
+
+
+3. Chromium Embedded Framework
+------------------------------
+
+This product includes the Chromium Embedded Framework.
+
+Chromium Embedded Framework
+Copyright (c) 2008-2020 Marshall A. Greenblatt.
+Portions Copyright (c) 2006-2009 Google Inc.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+- Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+- Redistributions in binary form must reproduce the above copyright notice, this
+  list of conditions and the following disclaimer in the documentation and/or
+  other materials provided with the distribution.
+
+- Neither the name of Google Inc. nor the name Chromium Embedded Framework nor
+  the names of its contributors may be used to endorse or promote products
+  derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
+OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT, INCLUDING
+NEGLIGENCE OR OTHERWISE, ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+4. Chromium Components Distributed With CEF
+-------------------------------------------
+
+CEF includes Chromium components and supporting libraries which may carry
+additional third-party licence notices.
+
+Where Chromium or CEF licence files are included with the CEF binary
+distribution, those files should be included with DesktopXR and form part of
+these third-party notices.
+
+
+5. No Endorsement
+-----------------
+
+The inclusion of these third-party notices does not imply endorsement of
+DesktopXR by the Khronos Group, NVIDIA Corporation, Google Inc., Chromium
+Embedded Framework, Chromium, or their contributors.
