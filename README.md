@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=VZTIhLUNZ_A
 - DirectInput support, map steering wheels, HOTAS, and button boxes.
 - FocusCore improvements inc support for Pimax OLED headsets.
 - PSVR2 Eye Tracking IPC Path (PSVR2Toolkit).
+- Discord chat in HUD (Invite only).
 - Added removable and reorderable HUD tiles.
 - Improved positioning system, cycle through overlays more easily.
 - Benchmarking mode, assign a key or button to start capturing fps & frametimes.
