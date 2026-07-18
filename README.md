@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=VZTIhLUNZ_A
 
 ### Additional Features and Improvements
 
-- Added web overlay support, including SimHub overlays.
-- Added DirectInput support for steering wheels, HOTAS devices, and button boxes.
+- Added web overlays, including support for SimHub.
+- Added DirectInput for steering wheels, HOTAS devices, and button boxes.
 - Added Discord chat to the HUD. Invite only.
 - Added removable and reorderable HUD tiles.
 - Improved the positioning system and made cycling through overlays easier.
