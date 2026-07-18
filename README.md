@@ -8,22 +8,25 @@ Released 1st August 2026
 
 https://www.youtube.com/watch?v=VZTIhLUNZ_A
 
-- FocusCoreAI
-  - PSVR2 Eye Tracking IPC Path (PSVR2Toolkit).
-  - DCS QuadView Support.
-  - AMS2 Safe Shader Detection.
-<br>
-- Web Overlays, SimHub overlays now supported.
-- DirectInput, map steering wheels, HOTAS and button boxes.
-- Discord chat in HUD (Invite only).
+### FocusCoreAI
+
+- PSVR2 Eye Tracking IPC Path via PSVR2Toolkit.
+- DCS QuadView support.
+- AMS2 safe shader detection.
+
+### Additional Features and Improvements
+
+- Added web overlay support, including SimHub overlays.
+- Added DirectInput support for steering wheels, HOTAS devices, and button boxes.
+- Added Discord chat to the HUD. Invite only.
 - Added removable and reorderable HUD tiles.
-- Improved positioning system, cycle through overlays more easily.
-- Benchmarking mode, assign a key or button to start capturing fps & frametimes.
-- Prioritizes game performance over overlays.
-- Improved HUD performance when active.
-- Fixed Desktop Overlay crash when toggled repeatedly.
-- Fixed `DesktopXR-DataBridge.exe` hang on exit.
-- Reorganised `DesktopXR.ini` settings.
+- Improved the positioning system and made cycling through overlays easier.
+- Added benchmarking mode, allowing a key or button to start capturing FPS and frame times.
+- Prioritised game performance over overlay performance.
+- Improved HUD performance while active.
+- Fixed a Desktop Overlay crash caused by repeated toggling.
+- Fixed `DesktopXR-DataBridge.exe` hanging on exit.
+- Reorganised the settings in `DesktopXR.ini`.
 
 ---
 
