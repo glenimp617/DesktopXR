@@ -8,10 +8,13 @@ Released 1st August 2026
 
 https://www.youtube.com/watch?v=VZTIhLUNZ_A
 
-- Web Overlays, SimHub overlays now supported.
-- DirectInput support, map steering wheels, HOTAS, and button boxes.
-- FocusCore improvements inc support for Pimax OLED headsets.
+- FocusCoreAI
 - PSVR2 Eye Tracking IPC Path (PSVR2Toolkit).
+- DCS QuadView Support.
+- AMS2 Safe Shader Detection.
+
+- Web Overlays, SimHub overlays now supported.
+- DirectInput, map steering wheels, HOTAS and button boxes.
 - Discord chat in HUD (Invite only).
 - Added removable and reorderable HUD tiles.
 - Improved positioning system, cycle through overlays more easily.
