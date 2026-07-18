@@ -9,10 +9,10 @@ Released 1st August 2026
 https://www.youtube.com/watch?v=VZTIhLUNZ_A
 
 - FocusCoreAI
-- PSVR2 Eye Tracking IPC Path (PSVR2Toolkit).
-- DCS QuadView Support.
-- AMS2 Safe Shader Detection.
-
+  - PSVR2 Eye Tracking IPC Path (PSVR2Toolkit).
+  - DCS QuadView Support.
+  - AMS2 Safe Shader Detection.
+<br>
 - Web Overlays, SimHub overlays now supported.
 - DirectInput, map steering wheels, HOTAS and button boxes.
 - Discord chat in HUD (Invite only).
