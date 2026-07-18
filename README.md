@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=VZTIhLUNZ_A
 
 - PSVR2 Eye Tracking IPC Path via PSVR2Toolkit.
 - DCS QuadView support.
-- AMS2 safe shader detection.
+- AMS2 bad shader detection.
 
 ### Additional Features and Improvements
 
