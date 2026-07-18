@@ -8,7 +8,7 @@ Released 1st August 2026
 
 https://www.youtube.com/watch?v=VZTIhLUNZ_A
 
-### FocusCoreAI
+### FocusCoreAI (Fixed & Eye-Tracked Foveated Rendering)
 
 - PSVR2 Eye Tracking IPC Path via PSVR2Toolkit.
 - DCS QuadView support.
