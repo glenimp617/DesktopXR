@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=VZTIhLUNZ_A
 
 - Added web overlays, including support for SimHub.
 - Added DirectInput for steering wheels, HOTAS devices, and button boxes.
-- Added Discord chat to the HUD. Invite only.
+- Added Discord chat to the HUD. (Invite only).
 - Added removable and reorderable HUD tiles.
 - Improved the positioning system and made cycling through overlays easier.
 - Added benchmarking mode, allowing a key or button to start capturing FPS and frame times.
