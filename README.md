@@ -51,6 +51,8 @@ Trailer 2 - https://www.youtube.com/watch?v=3naGEVUOVRc
 - FOV Cropping
 - FocusCore Fixed and Eye-tracked foveated rendering
 - VisionCore Image Processing
+- Web Overlays
+- Benchmarking
 - Minimal performance overhead
 - Simple MSI installer
 - Clean uninstall support
