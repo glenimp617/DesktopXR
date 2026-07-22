@@ -2,7 +2,7 @@
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
-# Update v1.8.0
+# Update v1.8.0 - Read the Wiki
 
 Released 1st August 2026
 
