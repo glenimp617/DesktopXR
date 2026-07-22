@@ -45,8 +45,9 @@ Trailer 2 - https://www.youtube.com/watch?v=3naGEVUOVRc
 
 ## Features
 
-- OpenXR API layer desktop overlay
+- OpenXR API layer
 - DirectX 11 & 12 rendering
+- Desktop Overlay
 - Heads up Display
 - FOV Cropping
 - FocusCore Fixed and Eye-tracked foveated rendering
