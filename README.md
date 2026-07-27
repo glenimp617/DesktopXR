@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=VZTIhLUNZ_A
 ### FocusCoreAI (Fixed & Eye-Tracked Foveated Rendering)
 
 - PSVR2 Eye Tracking IPC Path via PSVR2Toolkit.
-- DCS QuadView support.
+- DCS Quad Views support.
 - Assetto Corsa Evo v0.8 Profiled (PSVR2 compatible).
 - MSFS 2024 Profiled (PSVR2 compatible).
 - AMS2 bad shader detection.
