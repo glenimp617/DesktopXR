@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=VZTIhLUNZ_A
 - Assetto Corsa Evo v0.8 Profiled (PSVR2 compatible).
 - MSFS 2024 Profiled (PSVR2 compatible).
 - AMS2 bad shader detection.
-- FocusCore VRS & QuadViews work with FOV Cropping!
+- FocusCore VRS & Quad Views work with FOV Cropping!
 
 ### Additional Features and Improvements
 
