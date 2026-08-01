@@ -2,37 +2,6 @@
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
-# Update v1.8.0 - Read the Wiki
-
-Released 1st August 2026
-
-https://www.youtube.com/watch?v=VZTIhLUNZ_A
-
-### FocusCoreAI (Fixed & Eye-Tracked Foveated Rendering)
-
-- PSVR2 Eye Tracking IPC Path via PSVR2Toolkit (BnuuySolutions v0.2.1).
-- DCS Quad Views support.
-- Assetto Corsa Evo v0.8 Profiled (PSVR2 compatible).
-- MSFS 2024 Profiled (PSVR2 compatible).
-- AMS2 bad shader detection.
-- FocusCore VRS & Quad Views work with FOV Cropping!
-
-### Additional Features and Improvements
-
-- Added web overlays, including support for SimHub.
-- Added DirectInput for steering wheels, HOTAS devices, and button boxes.
-- Added Discord chat to the HUD (Invite only).
-- Added removable and reorderable HUD tiles.
-- Improved the positioning system and made cycling through overlays easier.
-- Added benchmarking mode, allowing a key or button to start capturing FPS and frame times.
-- Prioritised game performance over overlay performance.
-- Improved HUD performance while active.
-- Fixed a Desktop Overlay crash caused by repeated toggling.
-- Fixed `DesktopXR-DataBridge.exe` hanging on exit.
-- Reorganised the settings in `DesktopXR.ini`.
-
----
-
 # DesktopXR
 
 DesktopXR is an OpenXR API layer that renders a desktop overlay in VR using DirectX 11 or DirectX 12.  
