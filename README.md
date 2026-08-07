@@ -14,6 +14,8 @@
 - GUI tiles can now be used with DesktopXR even when no input is bound
 - Improved logging in `DesktopXR-Configurator.log` to include device names
 
+---
+
 # DesktopXR
 
 DesktopXR is an OpenXR API layer that renders a desktop overlay in VR using DirectX 11 or DirectX 12.  
