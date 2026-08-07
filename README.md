@@ -26,8 +26,6 @@ This app will always remain free 🙂
 Trailer 2 - https://www.youtube.com/watch?v=3naGEVUOVRc
 <br>Trailer 1 - https://www.youtube.com/watch?v=vFJsn9qUZ2g
 
----
-
 ## Features
 
 - OpenXR API layer
