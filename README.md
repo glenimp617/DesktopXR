@@ -2,6 +2,18 @@
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
+# Upcoming v1.8.1
+
+## DesktopXR
+- Multi-monitor switching is no longer gated behind **Select Overlay**
+- Single overlays can now be repositioned without first pressing **Select Overlay**
+- Improved FocusCore logging in `DesktopXR.log` to aid troubleshooting
+
+## Configurator
+- Added support for HOTAS toggle switches
+- GUI tiles can now be used with DesktopXR even when no input is bound
+- Improved logging in `DesktopXR-Configurator.log` to include device names
+
 # DesktopXR
 
 DesktopXR is an OpenXR API layer that renders a desktop overlay in VR using DirectX 11 or DirectX 12.  
