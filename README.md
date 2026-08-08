@@ -2,6 +2,10 @@
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
+<p align="center">
+Discord: https://discord.gg/gJDbKcnDsu
+</p>
+
 ### Upcoming v1.8.1
 
 ### DesktopXR
