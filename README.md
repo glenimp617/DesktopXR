@@ -112,3 +112,20 @@ Use at your own risk.
 ## Support
 
 Bug reports and feedback are welcome via GitHub Issues.
+
+---
+
+## ❤️ Sponsors
+
+Thank you to everyone supporting DesktopXR!
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/glenimp617">
+        <img src="https://github.com/glenimp617.png" width="60" height="60"><br>
+        <sub><b>glenimp617</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
