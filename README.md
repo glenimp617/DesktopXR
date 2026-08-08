@@ -122,9 +122,9 @@ Thank you to everyone supporting DesktopXR!
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/glenimp617">
-        <img src="https://github.com/glenimp617.png" width="60" height="60"><br>
-        <sub><b>glenimp617</b></sub>
+      <a href="https://github.com/rshummel75">
+        <img src="https://github.com/rshummel75.png" width="60" height="60"><br>
+        <sub><b>rshummel75</b></sub>
       </a>
     </td>
   </tr>
