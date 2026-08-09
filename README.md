@@ -5,6 +5,7 @@
 ### Upcoming v1.8.1
 
 ### DesktopXR
+- Desktop Overlay can now be curved!
 - Multi-monitor switching is no longer gated behind **Select Overlay**
 - Single overlays can now be repositioned without first pressing **Select Overlay**
 - Improved FocusCore logging in `DesktopXR.log` to aid troubleshooting
