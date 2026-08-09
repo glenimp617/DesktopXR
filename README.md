@@ -12,7 +12,7 @@ Sponsors recieve early access
 - Multi-monitor switching is no longer gated behind **Select Overlay**
 - Single overlays can now be repositioned without first pressing **Select Overlay**
 - Improved FocusCore logging in `DesktopXR.log` to aid troubleshooting
-- Removed FPS measurement jitter in HUD
+- Fixed FPS measurement jitter in HUD
 
 ### Configurator
 - Added support for HOTAS toggle switches
