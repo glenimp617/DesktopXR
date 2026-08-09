@@ -5,7 +5,7 @@
 ### Upcoming v1.8.1
 https://www.youtube.com/watch?v=duwfWsuPT_U
 
-Supporters recieve early access
+Sponsors recieve early access
 
 ### DesktopXR
 - Desktop Overlay can now be curved!
