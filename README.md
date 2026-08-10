@@ -134,5 +134,11 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>rshummel75</b></sub>
       </a>
     </td>
+        <td align="center">
+      <a href="https://github.com/phoenixMag00">
+        <img src="https://github.com/phoenixMag00.png" width="60" height="60"><br>
+        <sub><b>phoenixMag00</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
