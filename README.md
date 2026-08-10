@@ -47,6 +47,7 @@ Trailer v1.8.0 - https://www.youtube.com/watch?v=VZTIhLUNZ_A
 - Simple MSI installer
 - Clean uninstall support
 - No external runtime dependencies
+- SSL malware scanned and binary code signed
 
 ---
 
