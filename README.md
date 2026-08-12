@@ -17,6 +17,7 @@ Sponsors recieve early access
 
 ### Configurator
 - Added support for HOTAS toggle switches
+- Added Eye Tracking section
 - GUI tiles can now be used with DesktopXR even when no input is bound
 - Improved logging in `DesktopXR-Configurator.log` to include device names
 
