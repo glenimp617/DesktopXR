@@ -11,6 +11,7 @@ Sponsors recieve early access
 - Desktop Overlay can now be curved!
 - Multi-monitor switching is no longer gated behind **Select Overlay**
 - Single overlays can now be repositioned without first pressing **Select Overlay**
+- Status indicator for FocusCore
 - Improved FocusCore logging in `DesktopXR.log` to aid troubleshooting
 - Fixed FPS measurement jitter in HUD
 
