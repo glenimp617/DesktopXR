@@ -2,7 +2,7 @@
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
-### Upcoming v1.8.1
+### Upcoming v1.8.1 - Released on Early Access
 https://www.youtube.com/watch?v=duwfWsuPT_U
 
 Sponsors recieve early access
