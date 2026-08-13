@@ -2,6 +2,17 @@
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
+### Update v1.9.0 - Now in development
+
+Building on the foundations of FocusCore, v1.9.0 will bring stability and performance improvements, including being graphics mode agnostic which means it works across all MSAA/DLSS/FSR settings by design.
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/ams2-190.png">
+ <img src="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/ams2-190.png" width="400">
+</a>
+  <br>Automobilista 2
+</p>
+
 ### Upcoming v1.8.1 - Released on Early Access
 https://www.youtube.com/watch?v=duwfWsuPT_U
 
