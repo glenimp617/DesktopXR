@@ -174,6 +174,6 @@ When changes are made, the “Last updated” date at the top of this page will 
 For questions about these Terms, support requests, privacy questions, or data deletion requests, contact:
 
 **DesktopXR**  
-**Email:** hello@desktopxr.net
+**Email:** desktopxr@gmail.com
 
 Please do not send private tokens, Discord account credentials, or other sensitive authentication information by email.
