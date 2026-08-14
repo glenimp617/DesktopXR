@@ -16,7 +16,7 @@ Building on the foundations of FocusCore, v1.9.0 will bring stability and perfor
 ### Upcoming v1.8.1 - Released on Early Access
 https://www.youtube.com/watch?v=duwfWsuPT_U
 
-Sponsors recieve early access
+Sponsors recieve early access - email desktopxr@gmail.com for download link
 
 ### DesktopXR
 - Desktop Overlay can now be curved!
