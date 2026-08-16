@@ -5,7 +5,7 @@
 ### Update v1.9.0 - Now in development
 
 Building on the foundations of FocusCore, v1.9.0 will deliver further stability and performance improvements. FocusCore is now graphics-mode agnostic by design, working seamlessly across MSAA, DLSS, and FSR settings without mode-specific configuration.
-<br><br>This release will focus exclusively on refining and strengthening FocusCore.  My mission is to get FocusCore to a point where it works on any headset, in any game, at any resolution, with any graphics setting to give you the maximum gpu gains.
+<br><br>This release will focus exclusively on refining and strengthening FocusCore.  My mission is to get FocusCore to a point where it works on any headset, in any game, at any resolution, with any graphics setting to give you the maximum gpu performance gains possible.
 <br>
 
 <p align="center">
