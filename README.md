@@ -4,8 +4,9 @@
 
 ### Update v1.9.0 - Now in development
 
-Building on the foundations of FocusCore, v1.9.0 will bring stability and performance improvements, including being graphics mode agnostic which means it works across all MSAA/DLSS/FSR settings by design.
-<br>Bigger gains are coming ;-)
+Building on the foundations of FocusCore, v1.9.0 will deliver further stability and performance improvements. FocusCore is now graphics-mode agnostic by design, working seamlessly across MSAA, DLSS, and FSR settings without mode-specific configuration.
+<br>This release will focus exclusively on refining and strengthening FocusCore.
+<br>Bigger gains are still to come ;-)
 
 <p align="center">
 <a href="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/ams2-190.png">
