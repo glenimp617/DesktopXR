@@ -12,7 +12,7 @@ Building on the foundations of FocusCore, v1.9.0 will deliver further stability 
 <a href="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/ams2-190.png">
  <img src="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/ams2-190.png" width="400">
 </a>
-  <br>Automobilista 2 - Bigger gains are still to come ;-)
+  <br>Automobilista 2
 </p>
 
 ### Upcoming v1.8.1 - Released on Early Access
