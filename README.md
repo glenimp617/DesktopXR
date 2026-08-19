@@ -161,5 +161,17 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>1650singh</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Letrange-g">
+        <img src="https://github.com/Letrange-g.png" width="60" height="60"><br>
+        <sub><b>Letrange-g</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jeffgreenhut">
+        <img src="https://github.com/jeffgreenhut .png" width="60" height="60"><br>
+        <sub><b>jeffgreenhut</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
