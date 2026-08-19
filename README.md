@@ -169,7 +169,7 @@ Thank you to everyone supporting DesktopXR!
     </td>
     <td align="center">
       <a href="https://github.com/jeffgreenhut">
-        <img src="https://github.com/jeffgreenhut .png" width="60" height="60"><br>
+        <img src="https://github.com/jeffgreenhut.png" width="60" height="60"><br>
         <sub><b>jeffgreenhut</b></sub>
       </a>
     </td>
