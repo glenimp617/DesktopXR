@@ -10,7 +10,8 @@ Building on the foundations of FocusCore, v1.9.0 will deliver further stability 
 
 <p align="center">
 Benchmarks v1.9.0
-<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/AssettoCorsaEVO-v190.htm">Assetto Corsa Evo</a>
+<br><a href="https://htmlpreview.github.io/?"">Automobilista 2 MSAA2</a>
+<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/AssettoCorsaEVO-v190.htm">Assetto Corsa Evo MSAA2</a>
 <br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/FlightSimulator_2020-v190.htm">Microsoft Flight Simulator 2020</a>
 </p>
 
@@ -20,7 +21,7 @@ Benchmarks v1.9.0
 <a href="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/ams2-190.png">
  <img src="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/ams2-190.png" width="400">
 </a>
-  <br>Automobilista 2
+  <br>Automobilista 2 MSAA4
 </p>
 
 ### Upcoming v1.8.1 - Released on Early Access
