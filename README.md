@@ -12,6 +12,7 @@ Building on the foundations of FocusCore, v1.9.0 will deliver further stability 
 Benchmarks v1.9.0
 <br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/AssettoCorsaEVO-v190.htm">Assetto Corsa Evo MSAA2</a>
 <br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/Automobilista2-v190.htm">Automobilista 2 MSAA2</a>
+<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/Le_Mans_Ultimate-v190.htm">Le Mans Ultimate MSAA2</a>
 <br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/FlightSimulator_2020-v190.htm">Microsoft Flight Simulator 2020</a>
 </p>
 
