@@ -25,25 +25,6 @@ Benchmarks v1.9.0
   <br>Automobilista 2 MSAA4
 </p>
 
-### Upcoming v1.8.1 - Released on Early Access
-https://www.youtube.com/watch?v=duwfWsuPT_U
-
-Sponsors recieve early access - email desktopxr@gmail.com for download link
-
-### DesktopXR
-- Desktop Overlay can now be curved!
-- Multi-monitor switching is no longer gated behind **Select Overlay**
-- Single overlays can now be repositioned without first pressing **Select Overlay**
-- Status indicator for FocusCore
-- Improved FocusCore logging in `DesktopXR.log` to aid troubleshooting
-- Fixed FPS measurement jitter in HUD
-
-### Configurator
-- Added support for HOTAS toggle switches
-- Added Eye Tracking section
-- GUI tiles can now be used with DesktopXR even when no input is bound
-- Improved logging in `DesktopXR-Configurator.log` to include device names
-
 ---
 
 # DesktopXR
