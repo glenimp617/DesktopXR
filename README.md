@@ -20,6 +20,7 @@ Benchmarks v1.9.0
 
 <p align="center">
 rfactor2 is the first game to run through the new FocusCore without a profile
+<br>
 <br><a href="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/bench-rf2-1.png"><img src="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/bench-rf2-1.png" width="400"></a>
 <br><a href="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/bench-rf2-2.png"><img src="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/bench-rf2-2.png" width="400"></a>
 <br>rFactor 2 MSAA2
