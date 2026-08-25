@@ -19,10 +19,10 @@ Benchmarks v1.9.0
 <br>
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/ams2-190.png">
- <img src="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/ams2-190.png" width="400">
+<a href="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/bench-rf2-1.png">
+ <img src="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/bench-rf2-1.png" width="400">
 </a>
-  <br>Automobilista 2 MSAA4
+  <br>rFactor 2 MSAA2
 </p>
 
 ---
