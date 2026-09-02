@@ -166,5 +166,11 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>jeffgreenhut</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Nokhz">
+        <img src="https://github.com/Nokhz.png" width="60" height="60"><br>
+        <sub><b>Nokhz</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
