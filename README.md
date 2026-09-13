@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=JcQB0pbAgeo
 ### Configurator
 
 - Warning System. The configurator automatically checks for common issues and alerts you when something needs attention.
-- Update Notifications. Get notified when a newer version is available.
 - INI & Temporary Files. Quick access to system configuration, temporary files, and folders.
+- Update Notifications. Get notified when a newer version is available.
 
 ### DataBridge
 
