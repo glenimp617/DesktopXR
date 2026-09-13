@@ -2,11 +2,24 @@
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
-### Update v1.9.0 - Now in development
-https://youtu.be/JcQB0pbAgeo
+# v1.9.0 in development
 
-Building on the foundations of FocusCore, v1.9.0 will deliver further stability and performance improvements. FocusCore is now graphics-mode agnostic by design, working seamlessly across MSAA, DLSS, and FSR settings without mode-specific configuration.
-<br><br>This release will focus exclusively on refining and strengthening FocusCore.  My mission is to get FocusCore to a point where it works on any headset, in any game, at any resolution, with any graphics setting to give you the maximum gpu performance gains possible.
+### DesktopXR
+- FocusCore Gen2. Intelligent render-lineage system learns how your game renders each eye in real time, automatically applying VRS to compatible workloads while respecting shader exclusions defined in the game's profile.
+
+### Companion
+- Handoff & Recall. Launch a game from the companion and automatically return to your desktop when you exit the game.
+
+### Configurator
+
+- Warning System. The configurator automatically checks for common issues and alerts you when something needs attention.
+- Update Notifications. Get notified when a newer version is available.
+- INI & Temporary Files. Quick access to system configuration, temporary files, and folders.
+
+### DataBridge
+
+- Improved error logging for the CEF Web Renderer.
+
 <br>
 
 <p align="center">
