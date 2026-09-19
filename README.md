@@ -1,5 +1,5 @@
 <p align="center">
-  ALL SPONSORSHIPS GO TO CANCER UK
+  ALL SPONSORSHIPS GO TO CANCER RESEARCH UK
   <br><img src="images/canceruk.png" width="1200">
 </p>
 
