@@ -1,4 +1,11 @@
 <p align="center">
+  ALL SPONSORSHIPS GO TO CANCER UK
+  <br><img src="images/canceruk.png" width="1200">
+</p>
+
+---
+
+<p align="center">
   <img src="images/desktopxr-banner.png" width="1200">
 </p>
 
