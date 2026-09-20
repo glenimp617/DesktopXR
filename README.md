@@ -197,6 +197,8 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>Nokhz</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jaavib">
         <img src="https://github.com/jaavib.png" width="60" height="60"><br>
