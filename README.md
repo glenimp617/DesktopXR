@@ -159,7 +159,6 @@ Bug reports and feedback are welcome via GitHub Issues.
 Thank you to everyone supporting DesktopXR!
 <br>Sponsors recieve early access - email desktopxr@gmail.com for download link
 
-<p align="center">
 <table>
   <tr>
     <td align="center">
@@ -208,4 +207,3 @@ Thank you to everyone supporting DesktopXR!
     </td>
   </tr>
 </table>
-</p>
