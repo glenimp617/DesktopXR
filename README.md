@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=05yaS6jCjuc (VisionCore)
 ### DesktopXR
 - FocusCore Gen2. Intelligent render-lineage system learns how your game renders each eye in real time, automatically applying VRS to compatible workloads while respecting shader exclusions defined in the game's profile.
 - VisionCore. High-resolution 8K helmet mask with realistic sunshade effect.
-- Eye Tracking. Improved OpenXR path including H/V Offsets.
+- Eye Tracking. Improved OpenXR path including H/V Offsets (useful for bigscreen beyond 2e).
 
 ### Companion
 - Handoff & Recall. Launch a game from the companion and automatically return to your desktop when you exit the game.
