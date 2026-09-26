@@ -35,22 +35,13 @@ https://www.youtube.com/watch?v=05yaS6jCjuc (VisionCore)
 <br>
 
 <p align="center">
-Benchmarks v1.9.0
-<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/AssettoCorsaEVO-v190.htm">Assetto Corsa Evo MSAA2</a>
-<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/Automobilista2-v190.htm">Automobilista 2 MSAA2</a>
-<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/EliteDangerous-v190.htm">Elite Dangerous SMAA</a>
-<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/Le_Mans_Ultimate-v190.htm">Le Mans Ultimate MSAA2</a>
-<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/FlightSimulator_2020-v190.htm">Microsoft Flight Simulator 2020</a>
-</p>
-
-<br>
-
-<p align="center">
-rfactor2 is the first game to run through the new FocusCore without a profile
-<br>
-<br><a href="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/bench-rf2-1.png"><img src="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/bench-rf2-1.png" width="400"></a>
-<br><a href="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/bench-rf2-2.png"><img src="https://raw.githubusercontent.com/glenimp617/DesktopXR/main/images/bench-rf2-2.png" width="400"></a>
-<br>rFactor2 MSAA2
+Benchmarks v1.9.0 FINAL
+<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/AssettoCorsaEVO-v190.htm">Assetto Corsa Evo (MSAA2)</a>
+<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/Automobilista2-v190.htm">Automobilista 2 (MSAA2)</a>
+<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/EliteDangerous-v190.htm">Elite Dangerous (SMAA)</a>
+<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/Le_Mans_Ultimate-v190.htm">Le Mans Ultimate (MSAA2)</a>
+<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/FlightSimulator_2020-v190.htm">Microsoft Flight Simulator 2020 (TAA High)</a>
+<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/FlightSimulator_2024-v190.htm">Microsoft Flight Simulator 2024 (DLSS Ultra)</a>
 </p>
 
 ---
