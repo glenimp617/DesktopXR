@@ -30,6 +30,7 @@ https://www.youtube.com/watch?v=05yaS6jCjuc (VisionCore)
 ### DataBridge
 
 - Improved error logging for the CEF Web Renderer.
+- Switch between GPU/CPU percentages or frametimes within a VR session.
 
 <br>
 
