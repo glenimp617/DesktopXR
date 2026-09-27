@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=05yaS6jCjuc (VisionCore)
 - Eye Tracking. Improved OpenXR path including H/V Offsets (useful for bigscreen beyond 2e).
 
 ### Companion
-- Handoff & Recall. Launch a game from the companion and automatically return to your desktop when you exit the game.
+- Hand-off & Recall. Launch a game from the companion and automatically return to your desktop when you exit the game.
 
 ### Configurator
 
