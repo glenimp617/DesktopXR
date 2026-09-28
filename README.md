@@ -43,7 +43,7 @@ Benchmarks v1.9.0 FINAL
 <br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/Le_Mans_Ultimate-v190.htm">Le Mans Ultimate (MSAA2)</a>
 <br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/FlightSimulator_2020-v190.htm">Microsoft Flight Simulator 2020 (TAA High)</a>
 <br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/FlightSimulator_2024-v190.htm">Microsoft Flight Simulator 2024 (DLSS Ultra)</a>
-  <br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/starwarssquadrons-v190.htm">Star Wars Squadrons (TAA Ultra)</a>
+<br><a href="https://htmlpreview.github.io/?https://github.com/glenimp617/DesktopXR/blob/main/benchmarks/starwarssquadrons-v190.htm">Star Wars Squadrons (TAA Ultra)</a>
 </p>
 
 ---
