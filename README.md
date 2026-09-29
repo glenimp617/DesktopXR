@@ -12,8 +12,7 @@
 # v1.9.0 in development
 
 <p align="center">
-Click for video
-<br><a href="https://www.youtube.com/watch?v=zQpF7ZZDfxs">
+<a href="https://www.youtube.com/watch?v=zQpF7ZZDfxs">
 <img width="800" height="450" alt="dxr190-800" src="https://github.com/user-attachments/assets/8361a839-5ba6-4cfc-aa89-b436605170a7" />
 </a>
 </p>
