@@ -10,8 +10,12 @@
 </p>
 
 # v1.9.0 in development
-https://www.youtube.com/watch?v=05yaS6jCjuc (VisionCore) 
-<br>https://www.youtube.com/watch?v=JcQB0pbAgeo (FocusCore)
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=zQpF7ZZDfxs">
+<img width="800" height="450" alt="dxr190-800" src="https://github.com/user-attachments/assets/8361a839-5ba6-4cfc-aa89-b436605170a7" />
+</a>
+</p>
 
 ### DesktopXR
 - FocusCore Gen2. Intelligent render-lineage system learns how your game renders each eye in real time, automatically applying VRS to compatible workloads while respecting shader exclusions defined in the game's profile.
