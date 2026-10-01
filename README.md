@@ -59,8 +59,8 @@ It is designed to be lightweight, easy to install, and compatible with standard 
 
 This app will always remain free 🙂
 
-Trailer 2 - https://www.youtube.com/watch?v=3naGEVUOVRc
-<br>Trailer 1 - https://www.youtube.com/watch?v=vFJsn9qUZ2g
+Trailer 2 - https://youtu.be/iK55JJQ0_6M
+<br>Trailer 1 - https://youtu.be/vDwvvHKjbJM
 
 ## Features
 
