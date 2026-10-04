@@ -17,7 +17,7 @@
 </a>
 </p>
 
-### DesktopXR
+### DesktopXR v1.9.0 Release Notes
 
 #### FocusCore Gen2 — Foveated Rendering
 - **Intelligent render tracking.** The new render-lineage system learns how your game renders each eye in real time, automatically applying variable rate shading (VRS) to compatible workloads while respecting the shader exclusions defined in the game’s profile.
