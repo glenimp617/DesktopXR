@@ -27,6 +27,9 @@
 - **8K helmet mask.** A high-resolution helmet mask with a realistic sunshade effect.
 - **VRS Pixel Smoothing.** Helps reduce visible pixelation from variable rate shading for a cleaner, smoother image.
 
+#### Desktop Overlay
+- **HDR to SDR tone mapping.** View HDR desktop content in VR without washed-out colours or blown-out highlights.
+
 #### Benchmarking
 - **Improved performance reports.** Reports now visualise GPU frame times against your VR headset’s target frame time, making it easier to see when GPU rendering stays within—or exceeds—the time available for each frame.
 
