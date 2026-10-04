@@ -18,24 +18,29 @@
 </p>
 
 ### DesktopXR
-- FocusCore Gen2. Intelligent render-lineage system learns how your game renders each eye in real time, automatically applying VRS to compatible workloads while respecting shader exclusions defined in the game's profile.
-- VisionCore. High-resolution 8K helmet mask with realistic sunshade effect.
-- VisionCore. VRS Pixel Smoothing.
-- Eye Tracking. Improved OpenXR path including H/V Offsets (useful for bigscreen beyond 2e).
+
+#### FocusCore Gen2 — Foveated Rendering
+- **Intelligent render tracking.** The new render-lineage system learns how your game renders each eye in real time, automatically applying variable rate shading (VRS) to compatible workloads while respecting the shader exclusions defined in the game’s profile.
+- **Improved eye tracking.** Refined OpenXR eye-tracking support, with horizontal and vertical offsets to fine-tune gaze alignment—particularly useful for headsets such as the Bigscreen Beyond 2e.
+
+#### VisionCore — Image Post-Processing
+- **8K helmet mask.** A high-resolution helmet mask with a realistic sunshade effect.
+- **VRS Pixel Smoothing.** Helps reduce visible pixelation from variable rate shading for a cleaner, smoother image.
+
+#### Benchmarking
+- **Improved performance reports.** Reports now visualise GPU frame times against your VR headset’s target frame time, making it easier to see when GPU rendering stays within—or exceeds—the time available for each frame.
 
 ### Companion
-- Hand-off & Recall. Launch a game from the companion and automatically return to your desktop when you exit the game.
+- **Hand-off & Recall.** Launch a game from the Companion and automatically return to your desktop when you exit, making it easier to move between your desktop and VR games.
 
 ### Configurator
-
-- Warning System. The configurator automatically checks for common issues and alerts you when something needs attention.
-- INI & Temporary Files. Quick access to system configuration, temporary files, and folders.
-- Update Notifications. Get notified when a newer version is available.
+- **Built-in warning system.** Automatically checks for common issues and alerts you when something needs attention.
+- **Quick access to configuration and files.** Easily access INI configuration files, temporary files and relevant folders from within the Configurator.
+- **Update notifications.** Get notified when a newer version is available.
 
 ### DataBridge
-
-- Improved error logging for the CEF Web Renderer.
-- Switch between GPU/CPU percentages or frametimes within a VR session.
+- **Improved web-renderer diagnostics.** Enhanced error logging for the CEF Web Renderer makes it easier to investigate web-rendering issues.
+- **In-session performance metrics.** Switch CPU and GPU readings between usage percentages and frame times without leaving your VR session.
 
 <br>
 
