@@ -29,6 +29,7 @@
 
 #### Desktop Overlay
 - **HDR to SDR tone mapping.** View HDR desktop content in VR without washed-out colours or blown-out highlights.
+- **Multi-monitor overlay.** Display dual or triple screens in VR.
 
 #### Benchmarking
 - **Improved performance reports.** Reports now visualise GPU frame times against your VR headset’s target frame time, making it easier to see when GPU rendering stays within—or exceeds—the time available for each frame.
