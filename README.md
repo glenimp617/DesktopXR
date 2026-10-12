@@ -85,7 +85,7 @@ Trailer 2 - https://youtu.be/iK55JJQ0_6M
 - Minimal performance overhead
 - Simple MSI installer
 - Clean uninstall support
-- No external runtime dependencies
+- No additional software to install
 - SSL malware scanned and binary code signed
 
 ---
