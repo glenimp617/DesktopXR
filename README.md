@@ -21,7 +21,7 @@
 
 #### FocusCore Gen2 — Foveated Rendering
 - **Intelligent render tracking.** The new render-lineage system learns how your game renders each eye in real time, automatically applying variable rate shading (VRS) to compatible workloads while respecting the shader exclusions defined in the game’s profile.
-- **Improved eye tracking.** Refined OpenXR eye-tracking support, with horizontal and vertical offsets to fine-tune gaze alignment—particularly useful for headsets such as the Bigscreen Beyond 2e.
+- **Improved eye tracking.** Refined OpenXR eye-tracking support, with horizontal and vertical offsets to fine-tune gaze alignment, particularly useful for headsets such as the Bigscreen Beyond 2e.
 
 #### VisionCore — Image Post-Processing
 - **Auto Tune.** Automatically adjusts colour, contrast and exposure at the press of a button, with new controls for shadows, blacks, temperature, tint and vibrance.
