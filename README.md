@@ -24,6 +24,7 @@
 - **Improved eye tracking.** Refined OpenXR eye-tracking support, with horizontal and vertical offsets to fine-tune gaze alignment—particularly useful for headsets such as the Bigscreen Beyond 2e.
 
 #### VisionCore — Image Post-Processing
+- **Auto Tune.** Automatically adjusts colour, contrast and exposure at the press of a button, with new controls for shadows, blacks, temperature, tint and vibrance.
 - **8K helmet mask.** A high-resolution helmet mask with a realistic sunshade effect.
 - **VRS Pixel Smoothing.** Helps reduce visible pixelation from variable rate shading for a cleaner, smoother image.
 
