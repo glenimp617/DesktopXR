@@ -33,7 +33,7 @@
 - **Multi-monitor overlay.** Display dual or triple screens in VR.
 
 #### Benchmarking
-- **Improved performance reports.** Reports now visualise GPU frame times against your VR headset’s target frame time, making it easier to see when GPU rendering stays within—or exceeds—the time available for each frame.
+- **Improved performance reports.** Reports now visualise GPU frame times against your VR headset’s target frame time, making it easier to see when GPU rendering stays within, or exceeds, the time available for each frame.
 
 ### Companion
 - **Hand-off & Recall.** Launch a game from the Companion and automatically return to your desktop when you exit, making it easier to move between your desktop and VR games.
