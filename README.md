@@ -39,6 +39,7 @@
 - **Hand-off & Recall.** Launch a game from the Companion and automatically return to your desktop when you exit, making it easier to move between your desktop and VR games.
 
 ### Configurator
+- **Real-time configuration.** Most settings including FocusCore, VisionCore, transparency and multi-monitor controls now take effect immediately in DesktopXR as you adjust them in the Configurator, without needing to save or restart.
 - **Built-in warning system.** Automatically checks for common issues and alerts you when something needs attention.
 - **Quick access to configuration and files.** Easily access INI configuration files, temporary files and relevant folders from within the Configurator.
 - **Update notifications.** Get notified when a newer version is available.
