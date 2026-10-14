@@ -220,5 +220,11 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>tgeske88</b></sub>
       </a>
     </td>
+      <td align="center">
+      <a href="https://github.com/holden37141">
+        <img src="https://github.com/holden37141.png" width="60" height="60"><br>
+        <sub><b>holden37141</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
