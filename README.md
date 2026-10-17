@@ -65,8 +65,7 @@ Benchmarks v1.9.0 FINAL
 
 # DesktopXR
 
-DesktopXR is an OpenXR API layer that renders a desktop overlay in VR using DirectX 11 or DirectX 12.  
-It is designed to be lightweight, easy to install, and compatible with standard OpenXR runtimes.
+DesktopXR is an advanced OpenXR API layer designed to enhance VR performance, visual quality and usability. Powered by FocusCore, MotionCore and VisionCore, it combines intelligent fixed and eye-tracked foveated rendering, adaptive frame generation and advanced image processing with fully integrated desktop and web overlays, heads-up displays and performance benchmarking tools.
 
 This app will always remain free 🙂
 
