@@ -23,6 +23,11 @@
 - **Intelligent render tracking.** The new render-lineage system learns how your game renders each eye in real time, automatically applying variable rate shading (VRS) to compatible workloads while respecting the shader exclusions defined in the game’s profile.
 - **Improved eye tracking.** Refined OpenXR eye-tracking support, with horizontal and vertical offsets to fine-tune gaze alignment, particularly useful for headsets such as the Bigscreen Beyond 2e.
 
+#### MotionCore — Adaptive Frame Generation
+- **Intelligent adaptive frame generation.** Automatically monitors GPU frame times and activates when the GPU can no longer maintain consistent performance, helping deliver a smoother, more stable VR experience.
+- **2× and 3× frame generation.** Generates additional frames between rendered frames to improve perceived smoothness and help maintain your headset's target refresh rate during demanding scenes.
+- **GPU and runtime compatibility.** Requires an NVIDIA graphics card. MotionCore has been tested exclusively with SteamVR as the OpenXR runtime; compatibility with other runtimes has not yet been verified.
+
 #### VisionCore — Image Post-Processing
 - **Auto Tune.** Automatically adjusts VisionCore’s full set of colour and tonal controls at the press of a button, including the new shadows, blacks, temperature, tint and vibrance settings.
 - **8K helmet mask.** A high-resolution helmet mask with a realistic sunshade effect.
