@@ -76,18 +76,20 @@ Trailer 2 - https://youtu.be/iK55JJQ0_6M
 
 - OpenXR API layer
 - DirectX 11 & 12 rendering
-- Desktop Overlay
-- Heads up Display
-- FOV Cropping
-- FocusCore Fixed and Eye-tracked foveated rendering
-- VisionCore Image Processing
-- Web Overlays
-- Benchmarking
+- **FocusCore** — Fixed and eye-tracked foveated rendering
+- **MotionCore** — Adaptive 2× and 3× frame generation (NVIDIA GPU)
+- **VisionCore** — Advanced image processing
+- FOV cropping
+- Desktop overlay with multi-monitor support
+- HDR to SDR tone mapping
+- Customisable heads-up display
+- Web overlays
+- GPU performance benchmarking
 - Minimal performance overhead
 - Simple MSI installer
 - Clean uninstall support
 - No additional software to install
-- SSL malware scanned and binary code signed
+- SSL.com malware scanned and digitally signed binaries
 
 ---
 
