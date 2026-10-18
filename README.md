@@ -17,6 +17,9 @@
 </a>
 </p>
 
+<br>See the new configurator <a href="images/configurator-800.png">here</a>
+<br>
+
 ### DesktopXR v1.9.0 Release Notes
 
 #### FocusCore Gen2 - Foveated Rendering
