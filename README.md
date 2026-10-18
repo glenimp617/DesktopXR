@@ -15,7 +15,8 @@
 <a href="https://youtu.be/5Qn57VIgdi0">
 <img width="800" height="450" alt="dxr190-800" src="https://github.com/user-attachments/assets/e73733d5-3ceb-4775-a346-99ba0826bd6c" />
 </a>
-<br>See the new configurator <a href="images/configurator.png">here</a>
+<br>
+<br>###See the new configurator <a href="images/configurator.png">here</a>
 <br>
 </p>
 
