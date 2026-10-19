@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="images/desktopxr-banner.png" width="1200">
+  <br>Compatible with all OpenXR VR Headsets
 </p>
 
 # v1.9.0 in development
