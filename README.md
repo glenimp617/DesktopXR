@@ -8,6 +8,7 @@
 <p align="center">
   <img src="images/desktopxr-banner.png" width="1200">
   <br>Compatible with all OpenXR VR Headsets
+  <br>Launched 15th February 2026
 </p>
 
 # v1.9.0 in development
