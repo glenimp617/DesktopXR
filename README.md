@@ -31,7 +31,7 @@
 #### MotionCore - Adaptive Frame Generation
 - **Intelligent adaptive frame generation.** Automatically monitors GPU frame times and activates when the GPU can no longer maintain consistent performance, helping deliver a smoother, more stable VR experience.
 - **2× and 3× frame generation.** Generates additional frames between rendered frames to improve perceived smoothness and help maintain your headset's target refresh rate during demanding scenes.
-- **GPU and runtime compatibility.** Requires an NVIDIA graphics card. MotionCore has been tested exclusively with SteamVR as the OpenXR runtime; compatibility with other runtimes has not yet been verified.
+- **GPU and runtime compatibility.** Requires an NVIDIA graphics card. MotionCore has been tested with the SteamVR and Pimax OpenXR runtimes.
 
 #### VisionCore - Image Post-Processing
 - **Auto Tune.** Automatically adjusts VisionCore’s full set of colour and tonal controls at the press of a button, including the new shadows, blacks, temperature, tint and vibrance settings.
