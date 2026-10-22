@@ -237,10 +237,16 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>holden37141</b></sub>
       </a>
     </td>
-        <td align="center">
+      <td align="center">
       <a href="https://github.com/seanhartt">
         <img src="https://github.com/seanhartt.png" width="60" height="60"><br>
         <sub><b>seanhartt</b></sub>
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://github.com/FredisaBasset">
+        <img src="https://github.com/FredisaBasset.png" width="60" height="60"><br>
+        <sub><b>FredisaBasset</b></sub>
       </a>
     </td>
   </tr>
