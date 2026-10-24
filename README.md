@@ -249,5 +249,11 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>FredisaBasset</b></sub>
       </a>
     </td>
+      <td align="center">
+      <a href="https://github.com/acg12git">
+        <img src="https://github.com/acg12git.png" width="60" height="60"><br>
+        <sub><b>acg12git</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
