@@ -11,9 +11,9 @@
   <br>Launched 15th February 2026
 </p>
 
-# 1st November (Early Access)
+### 1st November (Early Access)
 <br>available to sponsors, all funds donated to Cancer Research UK
-# 1st December (General Release)
+### 1st December (General Release)
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=TdSDMhORIMI">
