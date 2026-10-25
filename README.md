@@ -11,11 +11,13 @@
   <br>Launched 15th February 2026
 </p>
 
-# v1.9.0 in development
+# 1st November (Early Access)
+<br>available to sponsors, all funds donated to Cancer Research UK
+# 1st December (General Release)
 
 <p align="center">
-<a href="https://youtu.be/5Qn57VIgdi0">
-<img width="800" height="450" alt="dxr190-800" src="https://github.com/user-attachments/assets/e73733d5-3ceb-4775-a346-99ba0826bd6c" />
+<a href="https://www.youtube.com/watch?v=TdSDMhORIMI">
+<img width="800" height="450" alt="dxr190t3-800" src="https://github.com/user-attachments/assets/d3e6eecf-680f-4fe5-8bde-995a7b7b97bf" />
 </a>
 <br>
 <br>See the new configurator <a href="images/configurator-190.png">here</a>
