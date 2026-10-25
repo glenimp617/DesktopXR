@@ -259,5 +259,11 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>acg12git</b></sub>
       </a>
     </td>
+  <tr>
+    <td align="center">
+      <img src="images/githubprofile.png" width="60" height="60"><br>
+      <sub><b>ola</b></sub>
+   </td>
+  </tr>
   </tr>
 </table>
