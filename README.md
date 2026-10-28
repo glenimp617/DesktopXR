@@ -20,11 +20,10 @@
 
 <br>
 
-### 1st November (Early Access)
-
-<br>
-
-### 1st December (General Release)
+<strong><big>
+1st November (Early Access)
+<br>1st December (General Release)
+</big></strong>
 
 <br>
 
