@@ -12,7 +12,8 @@
 </p>
 
 <p align="center">
-  ### test
+  <strong><big>ATTENTION SPONSORS!</big></strong>
+  <br>Rember to email desktopxr@gmail.com for early access download link ready for the 1st November
 </p>
 
 <p align="center">
