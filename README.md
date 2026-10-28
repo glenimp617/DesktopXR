@@ -21,7 +21,9 @@
 <br>
 
 ### 1st November (Early Access)
+
 <br>
+
 ### 1st December (General Release)
 
 <br>
