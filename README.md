@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  ### test
+</p>
+
+<p align="center">
 <a href="https://www.youtube.com/watch?v=TdSDMhORIMI">
 <img width="800" height="450" alt="dxr190t3-800" src="https://github.com/user-attachments/assets/d3e6eecf-680f-4fe5-8bde-995a7b7b97bf" />
 </a>
@@ -19,12 +23,6 @@
 <br>See the new configurator <a href="images/configurator-190.png">here</a>
 <br>
 </p>
-
-### 1st November (Early Access)
-
-### 1st December (General Release)
-
-<br>
 
 ### DesktopXR v1.9.0 Release Notes
 
