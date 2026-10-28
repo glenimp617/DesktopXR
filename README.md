@@ -11,10 +11,14 @@
   <br>Launched 15th February 2026
 </p>
 
+<br>
+
 <p align="center">
   <strong><big>ATTENTION SPONSORS!</big></strong>
   <br>Rember to email desktopxr@gmail.com for early access download link ready for the 1st November
 </p>
+
+<br>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=TdSDMhORIMI">
