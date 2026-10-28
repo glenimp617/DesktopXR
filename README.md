@@ -264,6 +264,12 @@ Thank you to everyone supporting DesktopXR!
       <img src="images/githubprofile.png" width="60" height="60"><br>
       <sub><b>ola</b></sub>
    </td>
+      <td align="center">
+      <a href="https://github.com/MikeSta4">
+        <img src="https://github.com/MikeSta4.png" width="60" height="60"><br>
+        <sub><b>MikeSta4</b></sub>
+      </a>
+    </td>
   </tr>
   </tr>
 </table>
