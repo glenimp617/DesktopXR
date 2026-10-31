@@ -24,6 +24,11 @@
 <a href="https://www.youtube.com/watch?v=TdSDMhORIMI">
 <img width="400" height="225" alt="dxr190t3-800" src="https://github.com/user-attachments/assets/d3e6eecf-680f-4fe5-8bde-995a7b7b97bf" />
 </a>
+
+<a href="https://www.youtube.com/watch?v=5Qn57VIgdi0">
+<img width="400" height="225" alt="dxr190-800" src="https://github.com/user-attachments/assets/732a432f-5584-4a90-a30e-aee4b25df326" />
+</a>
+
 <br>
 <br>See the new configurator <a href="images/configurator-190.png">here</a>
 <br>
