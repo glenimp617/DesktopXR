@@ -18,14 +18,7 @@
   <br>Rember to email desktopxr@gmail.com for early access download link ready for the 1st November
 </p>
 
-<br>
-
-<strong><big>
-1st November (Early Access)
-<br>1st December (General Release)
-</big></strong>
-
-<br>
+# v1.9.0
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=TdSDMhORIMI">
