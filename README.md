@@ -280,6 +280,12 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>MikeSta4</b></sub>
       </a>
     </td>
+      <td align="center">
+      <a href="https://github.com/burtmaplewud">
+        <img src="https://github.com/burtmaplewud.png" width="60" height="60"><br>
+        <sub><b>burtmaplewud</b></sub>
+      </a>
+    </td>
   </tr>
   </tr>
 </table>
