@@ -17,6 +17,7 @@
   <strong><big>ATTENTION SPONSORS!</big></strong>
   <br>Rember to email desktopxr@gmail.com for early access download link ready for the 1st November
   <br>
+  <br>
   <img width="1200" height="463" alt="banner-190" src="https://github.com/user-attachments/assets/8940e147-73d0-4bc6-b447-a1fcaeb1ad20" />
 </p>
 
