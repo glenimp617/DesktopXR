@@ -94,7 +94,13 @@ DesktopXR is an advanced OpenXR API layer designed to enhance VR performance, vi
 
 This app will always remain free 🙂
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@YourChannel) - https://www.youtube.com/@DesktopXR
+<p>
+  <a href="https://www.youtube.com/@DesktopXR">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&amp;logoColor=white" height="18" align="middle" alt="YouTube">
+  </a>
+  &nbsp;–&nbsp;
+  <a href="https://www.youtube.com/@DesktopXR">https://www.youtube.com/@DesktopXR</a>
+</p>
 
 ## Features
 
