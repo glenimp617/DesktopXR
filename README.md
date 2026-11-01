@@ -275,7 +275,7 @@ Thank you to everyone supporting DesktopXR!
     <td align="center">
       <img src="images/githubprofile.png" width="60" height="60"><br>
       <sub><b>ola</b></sub>
-   </td>
+    </td>
       <td align="center">
       <a href="https://github.com/MikeSta4">
         <img src="https://github.com/MikeSta4.png" width="60" height="60"><br>
@@ -286,6 +286,12 @@ Thank you to everyone supporting DesktopXR!
       <a href="https://github.com/burtmaplewud">
         <img src="https://github.com/burtmaplewud.png" width="60" height="60"><br>
         <sub><b>burtmaplewud</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jamesxionglu">
+        <img src="https://github.com/jamesxionglu.png" width="60" height="60"><br>
+        <sub><b>jamesxionglu</b></sub>
       </a>
     </td>
   </tr>
