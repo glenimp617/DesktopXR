@@ -294,6 +294,12 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>jamesxionglu</b></sub>
       </a>
     </td>
+      <td align="center">
+      <a href="https://github.com/cuckoochristopher-dot">
+        <img src="https://github.com/cuckoochristopher-dot.png" width="60" height="60"><br>
+        <sub><b>cuckoochristopher-dot</b></sub>
+      </a>
+    </td>
   </tr>
   </tr>
 </table>
