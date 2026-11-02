@@ -300,6 +300,12 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>cuckoochristopher-dot</b></sub>
       </a>
     </td>
+      <td align="center">
+      <a href="https://github.com/ljurcisin">
+        <img src="https://github.com/ljurcisin.png" width="60" height="60"><br>
+        <sub><b>ljurcisin</b></sub>
+      </a>
+    </td>
   </tr>
   </tr>
 </table>
