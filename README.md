@@ -271,6 +271,7 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>acg12git</b></sub>
       </a>
     </td>
+  </tr>
   <tr>
     <td align="center">
       <img src="images/githubprofile.png" width="60" height="60"><br>
@@ -294,24 +295,25 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>jamesxionglu</b></sub>
       </a>
     </td>
-      <td align="center">
+     <td align="center">
       <a href="https://github.com/cuckoochristopher-dot">
         <img src="https://github.com/cuckoochristopher-dot.png" width="60" height="60"><br>
         <sub><b>cuckoochristopher-dot</b></sub>
       </a>
     </td>
-      <td align="center">
+    <td align="center">
       <a href="https://github.com/ljurcisin">
         <img src="https://github.com/ljurcisin.png" width="60" height="60"><br>
         <sub><b>ljurcisin</b></sub>
       </a>
     </td>
-      <td align="center">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/kwmcrell">
         <img src="https://github.com/kwmcrell.png" width="60" height="60"><br>
         <sub><b>kwmcrell</b></sub>
       </a>
     </td>
-  </tr>
   </tr>
 </table>
