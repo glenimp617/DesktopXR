@@ -306,6 +306,12 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>ljurcisin</b></sub>
       </a>
     </td>
+      <td align="center">
+      <a href="https://github.com/kwmcrell">
+        <img src="https://github.com/kwmcrell.png" width="60" height="60"><br>
+        <sub><b>kwmcrell</b></sub>
+      </a>
+    </td>
   </tr>
   </tr>
 </table>
