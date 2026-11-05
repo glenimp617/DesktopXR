@@ -315,5 +315,11 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>kwmcrell</b></sub>
       </a>
     </td>
+      <td align="center">
+      <a href="https://github.com/nabel0">
+        <img src="https://github.com/nabel0.png" width="60" height="60"><br>
+        <sub><b>nabel0</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
