@@ -193,7 +193,6 @@ Bug reports and feedback are welcome via GitHub Issues.
 ## ❤️ Sponsors
 
 Thank you to everyone supporting DesktopXR!
-<br>Sponsors recieve early access - email desktopxr@gmail.com for download link
 
 <table>
   <tr>
