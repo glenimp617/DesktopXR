@@ -9,7 +9,7 @@
   <img src="images/desktopxr-banner.png" width="1200">
   <br>Compatible with all OpenXR VR Headsets
   <br>Launched 15th February 2026
-  <br>[desktopxr@gmail.com](mailto:desktopxr@gmail.com)
+  <br><a href="mailto:desktopxr@gmail.com">desktopxr@gmail.com</a>
 </p>
 
 <br>
