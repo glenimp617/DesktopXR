@@ -20,6 +20,9 @@
 #### FocusCore Gen2 - Improvements
 - stay tuned
 
+#### Desktop Overlay
+- Landscape & Portrait modes
+
 ---
 
 # DesktopXR
