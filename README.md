@@ -14,6 +14,12 @@
 
 # v1.10.0 - In Development
 
+#### Mixed Reality
+- stay tuned
+
+#### FocusCore Gen2 - Improvements
+- stay tuned
+
 ---
 
 # DesktopXR
