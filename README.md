@@ -329,5 +329,11 @@ Thank you to everyone supporting DesktopXR!
         <sub><b>danilogeronimo</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/kjclock-cellfone">
+        <img src="https://github.com/kjclock-cellfone.png" width="60" height="60"><br>
+        <sub><b>kjclock-cellfone</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
