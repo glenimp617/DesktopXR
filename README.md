@@ -17,8 +17,8 @@
 #### Mixed Reality
 - stay tuned
 
-#### FocusCore Gen2 - Improvements
-- stay tuned
+#### FocusCore Gen2
+- VRS Performance Improvements
 
 #### Desktop Overlay
 - Landscape & Portrait modes
