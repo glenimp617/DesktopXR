@@ -15,13 +15,22 @@
 # v1.10.0 - In Development
 
 #### Mixed Reality
-- stay tuned
+- Camera display through shapes, templates and full passthrough mode
+- Optional resizing, chroma key and transparency
 
 #### FocusCore Gen2
 - VRS Performance Improvements
+- Supersampling for Native and VRS modes
 
-#### Desktop Overlay
-- Landscape & Portrait modes
+#### Overlays
+- Desktop - Landscape & Portrait modes
+- Desktop - Smoother curve (thanks to jeffgreenhut for helping with the mesh rendering)
+- HUD - Discord chat for everyone
+- Web - Now supports Discord via streamkit.discord.com/overlay
+
+#### Misc
+- Configurator - Auto-save
+- Databridge - Improved web lifecycle performance
 
 ---
 
