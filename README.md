@@ -28,6 +28,9 @@
 - HUD - Discord chat for everyone
 - Web - Now supports Discord via streamkit.discord.com/overlay
 
+### Companion
+- 16K 360 Environments
+
 #### Misc
 - Configurator - Auto-save
 - Databridge - Improved web lifecycle performance
