@@ -33,6 +33,7 @@
 
 #### Misc
 - Configurator - Auto-save
+- Configurator - Live resolution display
 - Databridge - Improved web lifecycle performance
 
 ---
