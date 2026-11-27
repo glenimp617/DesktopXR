@@ -23,7 +23,7 @@
 - Supersampling for Native and VRS modes
 
 #### Overlays
-- Desktop - Illuminate the surrounding space with dynamic, screen-matched colours (Ambilight effect).
+- Desktop - Illuminate the surrounding space with dynamic, screen-matched colours (Ambilight effect)
 - Desktop - Landscape & Portrait modes
 - Desktop - Smoother curve (thanks to jeffgreenhut for helping with the mesh rendering)
 - HUD - Discord chat for everyone
